@@ -1,0 +1,10 @@
+mcp_server_motherduck/__init__.py,sha256=vogjO-bwHYZFut85eeiVmRepamcWHk8bImri_kBKZMU,6026
+mcp_server_motherduck/configs.py,sha256=JP8izAKamXdeU6Rk0N5XjPXvN71WG3K0WdYD9_ChN-M,771
+mcp_server_motherduck/database.py,sha256=3qkeBIpf08WV6pz9rf52b_MipzaHALurFugMx-XARI8,4513
+mcp_server_motherduck/prompt.py,sha256=P7BrmhVXwDkPeSHQ3f25WMP6lpBpN2BxDzYPOQ3fxX8,56699
+mcp_server_motherduck/server.py,sha256=U1LM2oQ36gO_pAZuez9HV_u8YDWdER8tQIdDbiXfzx0,5232
+mcp_server_motherduck-0.6.3.dist-info/METADATA,sha256=jh9FiBLMG2fQ7GcS9vg8aBTn-4WShnVHXcd1yTFpWmw,15606
+mcp_server_motherduck-0.6.3.dist-info/WHEEL,sha256=qtCwoSJWgHk21S1Kb4ihdzI2rlJ1ZKaIurTj_ngOhyQ,87
+mcp_server_motherduck-0.6.3.dist-info/entry_points.txt,sha256=dRTgcvWJn40bz0PVuKPylK6w92cFN32lwunZOgo5j4s,69
+mcp_server_motherduck-0.6.3.dist-info/licenses/LICENSE,sha256=Tj68w9jCiceFKTvZ3jET-008NjhozcQMXpm-fyL9WUI,1067
+mcp_server_motherduck-0.6.3.dist-info/RECORD,,

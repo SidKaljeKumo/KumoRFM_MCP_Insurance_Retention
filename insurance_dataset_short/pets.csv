@@ -1,0 +1,7 @@
+policy_id,pet_id,pet_type,breed,age_years,weight_kg
+201,8589934592,dog,dog_breed_5,12,27.1
+653,42949672960,dog,dog_breed_14,4,31.6
+734,42949672961,dog,dog_breed_44,9,6.1
+1181,77309411328,cat,cat_breed_12,12,28.0
+1425,94489280512,dog,dog_breed_27,14,49.9
+1583,103079215104,cat,cat_breed_46,15,47.1

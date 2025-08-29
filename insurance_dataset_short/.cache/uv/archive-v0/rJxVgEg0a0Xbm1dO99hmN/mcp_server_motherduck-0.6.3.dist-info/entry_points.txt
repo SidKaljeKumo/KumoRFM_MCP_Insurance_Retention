@@ -1,0 +1,2 @@
+[console_scripts]
+mcp-server-motherduck = mcp_server_motherduck:main
